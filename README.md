@@ -57,3 +57,6 @@ title('magnitude response chebyshev lpf');
 
 ## RESULT:
 
+
+<img width="1600" height="374" alt="image" src="https://github.com/user-attachments/assets/9ab5bd85-0935-4389-8eff-609f15a89ab0" />
+
